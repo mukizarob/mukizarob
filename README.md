@@ -2,7 +2,6 @@
 - 👀 I’m interested in becoming a strong web designer
 - 🌱 I’m currently learning front end web developing
 - 💞️ I’m looking to collaborate on making many projects 
-- 
 - 📫 You can reach me via whatsapp on my phone number: 
   *0465212884*
 
