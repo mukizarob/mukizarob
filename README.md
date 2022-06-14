@@ -1,7 +1,8 @@
 - 👋 Hi, my name is Mukiza Yves
 - 👀 I’m interested in becoming a strong web designer
 - 🌱 I’m currently learning front end web developing
-- 💞️ I’m looking to collaborate on many project
+- 💞️ I’m looking to collaborate on many project as possible :EMOJICODE: .
+- 
 - 📫 You can reach me via whatsapp on my phone number: 
   *0465212884*
 
