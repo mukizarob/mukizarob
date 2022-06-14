@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end web developing
 - 💞️ I’m looking to collaborate on many project
 - 📫 You can reach me via whatsapp on my phone number: 
-* 0465212884*
+  * 0465212884*
 
 
 <!---
